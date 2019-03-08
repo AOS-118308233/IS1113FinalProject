@@ -45,7 +45,8 @@
          <body background ="background.jpg">
         
         <ul>
-            <li><a class="active" href="CV.html">CV</a></li>
+            <li><a class="active" href="index.php.html">Home</a></li>
+            <li><a href="CV.html"> CV </a></li>
             <li><a href="Interests.html"> Interests </a></li>
             <li><a href="consultingServices.html"> Our Consulting Service </a></li>
             <li><a href="eBus1.php"> eBusiness </a></li>
@@ -57,8 +58,16 @@
         <h2> Internet Development Project </h2>
         <h3> Aoife O'Sullivan </h3>
         
+        <br/>
+        
+        <a href ="" />Heroku link </a>
+        <br/>
+        <a href ="" /> Github Link </a>
+        
+        <hr>
+        
         <p> This module has thought me all about web development and how to implement different technologies such as PHP and JavaScript.
-            Click me to hide this text and move on the my project! </p>
+            Click me to hide this text and continue to view my project! </p>
         </center>
 
     </body>

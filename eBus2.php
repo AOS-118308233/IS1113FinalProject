@@ -36,10 +36,42 @@
                           font-size: 14px;
                           }
             
+               ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #ff9999
+                }
+
+            li {
+                float: left;
+               }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 20px 30px;
+                text-decoration: none;
+}
+
+            li a:hover {
+                background-color: #ff6666;
+                           
         </style>
     </head>
 	
     <body>
+        
+        <ul>
+            <li><a class="active" href="index.php"> Home </a></li>
+            <li><a href="CV.html"> CV </a></li>
+            <li><a href="Interests.html"> Interests </a></li>
+            <li><a href="consultingServices.html"> Our Consulting Service </a></li>
+            <li><a href="eBus1.php"> eBusiness </a></li>
+        </ul>
+        
 	<div class ="form">
             <form name ="Details" method = "post" action="eBus3.php">
                 
