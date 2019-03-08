@@ -1,4 +1,4 @@
-<?php
+w<?php
     session_start();
     $fullNameValue = "";
     $totalValue2 = "";

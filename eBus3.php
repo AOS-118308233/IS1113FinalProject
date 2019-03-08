@@ -61,7 +61,8 @@
             <h4> Thank you for choosing O'Sullivan Consulting Service Ltd. We will contact you shortly to arrange a meeting </h4>
         
 	<!-- Starting the session to get the session variable from the last page -->
-	
+        <div>
+    <center>
         <?php 
 	
 	session_start();
@@ -73,6 +74,9 @@
 	echo "<br></br>"; 
 	echo "Your Total Cost is: " . $totalValue2 . ".";
 	?>
+        
+    </center>
+        </div>
 	
 	</body>
 </html>

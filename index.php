@@ -26,7 +26,11 @@
 
             li a:hover {
                         background-color: lightseagreen;
-                        }        
+                        } 
+                        
+            body {
+                   margin: 0px;         
+                        }
             
         </style>
         
