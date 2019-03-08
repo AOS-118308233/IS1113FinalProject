@@ -60,9 +60,9 @@
         
         <br/>
         
-        <a href ="" />Heroku link </a>
+        <a href ="https://finalprojectis1113.herokuapp.com/" />Heroku link </a>
         <br/>
-        <a href ="" /> Github Link </a>
+        <a href ="https://github.com/AOS-118308233/IS1113FinalProject" /> Github Link </a>
         
         <hr>
         
